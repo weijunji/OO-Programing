@@ -1,0 +1,24 @@
+# IO&Operator&Class
+
+## 01_hello
+How to modify the “hello, world!” program to frame the name? The output might be:
+```shell
+Please enter your first name: Mr. Bean
+****************
+*                         *
+* Hello, Mr. Bean! *
+*                         *
+****************
+```
+
+## 02_shapes
+ (Displaying Shapes with Asterisks) Write a program that prints a box, an oval, an arrow and a diamond as follows:
+!(example)[http://sakai.cqu.edu.cn/access/content/group/b8d72fa5-ad97-41c0-9b78-63b5c6493112/h2.png]
+
+## 03_GradeBook
+Modify class GradeBook as follows:
+* Include a second string data member that represents the course instructor’s name.
+* Provide a set function to change the instructor’s name and a get function to retrieve it.
+* Modify the constructor to specify course name and instructor name parameters.
+* Modify function displayMessage to output the welcome message and course name, then the string "This course is presented by: " followed by the instructor’s name.
+* Use your modified class in a test program that demonstrates the class’s new capabilities.
